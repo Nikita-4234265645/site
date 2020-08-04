@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [About](https://nikita-4234265645.github.io/site/about) and ![Image](src)
 ```
-
+[About](https://nikita-4234265645.github.io/site/about)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
