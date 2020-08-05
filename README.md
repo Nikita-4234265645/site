@@ -1,6 +1,6 @@
-## Welcome, here you can download **Need For Speed Most Wanted 2005** for FREE
+## Welcome
 
-This download have not Viruses, Torrent or something else. 
+
 You can use the [editor on GitHub](https://github.com/Nikita-4234265645/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -8,13 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-**How can I download it?**
+
 ```markdown
 
-1. Press Dowmload button
-2. Open setup file
-3. Select all _options/files_ you are asked
-4. Enjoy the game)
+
 Syntax highlighted code block
 
 # Header 1
