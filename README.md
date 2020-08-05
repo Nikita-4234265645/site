@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 [About](https://nikita-4234265645.github.io/site/about)
 
-
+<script>alert('Welcome to my first web-site=)')</script>
  
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
