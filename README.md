@@ -128,7 +128,7 @@ input {
 <body>
 
 <div id="myDIV" class="header">
-  <h2 style="margin:5px">Made by Nikita 2020</h2>
+  <h2 style="color:#ffffff">Made by Nikita 2020</h2>
   <input type="text" id="myInput" placeholder="Write here something...">
   <span onclick="newElement()" class="addBtn">Add</span>
 </div>
