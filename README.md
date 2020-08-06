@@ -1,6 +1,4 @@
 ## My notes
-
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -84,7 +82,7 @@ ul li.checked::before {
 
 /* Style the header */
 .header {
-  background-color: #000000;
+  background-color: #275da1;
   padding: 30px 40px;
   color: white;
   text-align: center;
@@ -112,7 +110,7 @@ input {
 .addBtn {
   padding: 10px;
   width: 25%;
-  background: #3e3e3e;
+  background: #357dd1;
   color: #ffffff;
   float: left;
   text-align: center;
@@ -201,4 +199,3 @@ function newElement() {
 
 </body>
 </html>
-
